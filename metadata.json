@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Coach",
+  "description": "An AI-powered mock interview application that provides real-time feedback on your answers. It helps users practice for job interviews by analyzing content, delivery, pace, and use of filler words, acting as a personal interview coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
